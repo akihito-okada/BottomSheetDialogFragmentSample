@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BottomSheetDialogFragmentSample</string>
+    <string name="open_viewpagerdialog">Open ViewPagerDialog</string>
+</resources>
